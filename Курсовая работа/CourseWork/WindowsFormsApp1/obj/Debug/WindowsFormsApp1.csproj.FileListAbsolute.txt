@@ -1,0 +1,135 @@
+K:\ВШЭ\КУРСОВАЯ РАБОТА\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+K:\ВШЭ\КУРСОВАЯ РАБОТА\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+K:\ВШЭ\КУРСОВАЯ РАБОТА\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+K:\ВШЭ\КУРСОВАЯ РАБОТА\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+K:\ВШЭ\КУРСОВАЯ РАБОТА\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+K:\ВШЭ\КУРСОВАЯ РАБОТА\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+K:\ВШЭ\КУРСОВАЯ РАБОТА\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+K:\ВШЭ\КУРСОВАЯ РАБОТА\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+K:\ВШЭ\КУРСОВАЯ РАБОТА\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+K:\ВШЭ\КУРСОВАЯ РАБОТА\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+G:\ВШЭ\КУРСОВАЯ РАБОТА\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+G:\ВШЭ\КУРСОВАЯ РАБОТА\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+G:\ВШЭ\КУРСОВАЯ РАБОТА\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+G:\ВШЭ\КУРСОВАЯ РАБОТА\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+G:\ВШЭ\КУРСОВАЯ РАБОТА\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+G:\ВШЭ\КУРСОВАЯ РАБОТА\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+G:\ВШЭ\КУРСОВАЯ РАБОТА\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+G:\ВШЭ\КУРСОВАЯ РАБОТА\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+G:\ВШЭ\КУРСОВАЯ РАБОТА\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+G:\ВШЭ\КУРСОВАЯ РАБОТА\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+G:\ВШЭ\КУРСОВАЯ РАБОТА\Курсовая работа\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+G:\ВШЭ\КУРСОВАЯ РАБОТА\Курсовая работа\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+G:\ВШЭ\КУРСОВАЯ РАБОТА\Курсовая работа\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+G:\ВШЭ\КУРСОВАЯ РАБОТА\Курсовая работа\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+G:\ВШЭ\КУРСОВАЯ РАБОТА\Курсовая работа\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+G:\ВШЭ\КУРСОВАЯ РАБОТА\Курсовая работа\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+G:\ВШЭ\КУРСОВАЯ РАБОТА\Курсовая работа\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+G:\ВШЭ\КУРСОВАЯ РАБОТА\Курсовая работа\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+G:\ВШЭ\КУРСОВАЯ РАБОТА\Курсовая работа\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+G:\ВШЭ\КУРСОВАЯ РАБОТА\Курсовая работа\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+G:\ВШЭ\КУРСОВАЯ РАБОТА\Курсовая работа_программа\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+G:\ВШЭ\КУРСОВАЯ РАБОТА\Курсовая работа_программа\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+G:\ВШЭ\КУРСОВАЯ РАБОТА\Курсовая работа_программа\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+G:\ВШЭ\КУРСОВАЯ РАБОТА\Курсовая работа_программа\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+G:\ВШЭ\КУРСОВАЯ РАБОТА\Курсовая работа_программа\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+G:\ВШЭ\КУРСОВАЯ РАБОТА\Курсовая работа_программа\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+G:\ВШЭ\КУРСОВАЯ РАБОТА\Курсовая работа_программа\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+G:\ВШЭ\КУРСОВАЯ РАБОТА\Курсовая работа_программа\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+G:\ВШЭ\КУРСОВАЯ РАБОТА\Курсовая работа_программа\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+G:\ВШЭ\КУРСОВАЯ РАБОТА\Курсовая работа_программа\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+G:\ВШЭ\КУРСОВАЯ РАБОТА\Курсовая работа_программа\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FormGraphics.resources
+G:\ВШЭ\КУРСОВАЯ РАБОТА\Курсовая работа_программа\WindowsFormsApp1\bin\Debug\Graphics.dll
+G:\ВШЭ\КУРСОВАЯ РАБОТА\Курсовая работа_программа\WindowsFormsApp1\bin\Debug\Graphics.pdb
+G:\ВШЭ\КУРСОВАЯ РАБОТА\Курсовая работа_программа\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+F:\YandexDisk\Документы\Наталия\КР\Курсовая работа_программа\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+F:\YandexDisk\Документы\Наталия\КР\Курсовая работа_программа\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+F:\YandexDisk\Документы\Наталия\КР\Курсовая работа_программа\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+F:\YandexDisk\Документы\Наталия\КР\Курсовая работа_программа\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+F:\YandexDisk\Документы\Наталия\КР\Курсовая работа_программа\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+F:\YandexDisk\Документы\Наталия\КР\Курсовая работа_программа\WindowsFormsApp1\bin\Debug\Graphics.dll
+F:\YandexDisk\Документы\Наталия\КР\Курсовая работа_программа\WindowsFormsApp1\bin\Debug\Graphics.pdb
+F:\YandexDisk\Документы\Наталия\КР\Курсовая работа_программа\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojResolveAssemblyReference.cache
+F:\YandexDisk\Документы\Наталия\КР\Курсовая работа_программа\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+F:\YandexDisk\Документы\Наталия\КР\Курсовая работа_программа\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FormGraphics.resources
+F:\YandexDisk\Документы\Наталия\КР\Курсовая работа_программа\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+F:\YandexDisk\Документы\Наталия\КР\Курсовая работа_программа\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.Cache
+G:\ВШЭ\КУРСОВАЯ РАБОТА\ИТОГ\Курсовая работа_программа\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+G:\ВШЭ\КУРСОВАЯ РАБОТА\ИТОГ\Курсовая работа_программа\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+G:\ВШЭ\КУРСОВАЯ РАБОТА\ИТОГ\Курсовая работа_программа\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+G:\ВШЭ\КУРСОВАЯ РАБОТА\ИТОГ\Курсовая работа_программа\WindowsFormsApp1\bin\Debug\Graphics.dll
+G:\ВШЭ\КУРСОВАЯ РАБОТА\ИТОГ\Курсовая работа_программа\WindowsFormsApp1\bin\Debug\Graphics.pdb
+G:\ВШЭ\КУРСОВАЯ РАБОТА\ИТОГ\Курсовая работа_программа\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+G:\ВШЭ\КУРСОВАЯ РАБОТА\ИТОГ\Курсовая работа_программа\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+G:\ВШЭ\КУРСОВАЯ РАБОТА\ИТОГ\Курсовая работа_программа\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FormGraphics.resources
+G:\ВШЭ\КУРСОВАЯ РАБОТА\ИТОГ\Курсовая работа_программа\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+G:\ВШЭ\КУРСОВАЯ РАБОТА\ИТОГ\Курсовая работа_программа\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+G:\ВШЭ\КУРСОВАЯ РАБОТА\ИТОГ\Курсовая работа_программа\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+G:\ВШЭ\КУРСОВАЯ РАБОТА\ИТОГ\Курсовая работа_программа\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+G:\ВШЭ\КУРСОВАЯ РАБОТА\ИТОГ\Курсовая работа_программа\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+G:\ВШЭ\КУРСОВАЯ РАБОТА\ИТОГ\Курсовая работа_программа\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+F:\ВШЭ\КУРСОВАЯ РАБОТА\ИТОГ\Курсовая работа_программа\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+F:\ВШЭ\КУРСОВАЯ РАБОТА\ИТОГ\Курсовая работа_программа\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+F:\ВШЭ\КУРСОВАЯ РАБОТА\ИТОГ\Курсовая работа_программа\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+F:\ВШЭ\КУРСОВАЯ РАБОТА\ИТОГ\Курсовая работа_программа\WindowsFormsApp1\bin\Debug\Graphics.dll
+F:\ВШЭ\КУРСОВАЯ РАБОТА\ИТОГ\Курсовая работа_программа\WindowsFormsApp1\bin\Debug\Graphics.pdb
+F:\ВШЭ\КУРСОВАЯ РАБОТА\ИТОГ\Курсовая работа_программа\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+F:\ВШЭ\КУРСОВАЯ РАБОТА\ИТОГ\Курсовая работа_программа\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+F:\ВШЭ\КУРСОВАЯ РАБОТА\ИТОГ\Курсовая работа_программа\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FormGraphics.resources
+F:\ВШЭ\КУРСОВАЯ РАБОТА\ИТОГ\Курсовая работа_программа\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+F:\ВШЭ\КУРСОВАЯ РАБОТА\ИТОГ\Курсовая работа_программа\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+F:\ВШЭ\КУРСОВАЯ РАБОТА\ИТОГ\Курсовая работа_программа\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+F:\ВШЭ\КУРСОВАЯ РАБОТА\ИТОГ\Курсовая работа_программа\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+F:\ВШЭ\КУРСОВАЯ РАБОТА\ИТОГ\Курсовая работа_программа\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+F:\ВШЭ\КУРСОВАЯ РАБОТА\ИТОГ\Курсовая работа_программа\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+E:\КУРСОВАЯ РАБОТА\ИТОГ\Курсовая работа_программа\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+E:\КУРСОВАЯ РАБОТА\ИТОГ\Курсовая работа_программа\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+E:\КУРСОВАЯ РАБОТА\ИТОГ\Курсовая работа_программа\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+E:\КУРСОВАЯ РАБОТА\ИТОГ\Курсовая работа_программа\WindowsFormsApp1\bin\Debug\Graphics.dll
+E:\КУРСОВАЯ РАБОТА\ИТОГ\Курсовая работа_программа\WindowsFormsApp1\bin\Debug\Graphics.pdb
+E:\КУРСОВАЯ РАБОТА\ИТОГ\Курсовая работа_программа\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+E:\КУРСОВАЯ РАБОТА\ИТОГ\Курсовая работа_программа\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+E:\КУРСОВАЯ РАБОТА\ИТОГ\Курсовая работа_программа\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FormGraphics.resources
+E:\КУРСОВАЯ РАБОТА\ИТОГ\Курсовая работа_программа\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+E:\КУРСОВАЯ РАБОТА\ИТОГ\Курсовая работа_программа\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+E:\КУРСОВАЯ РАБОТА\ИТОГ\Курсовая работа_программа\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+E:\КУРСОВАЯ РАБОТА\ИТОГ\Курсовая работа_программа\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+E:\КУРСОВАЯ РАБОТА\ИТОГ\Курсовая работа_программа\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+E:\КУРСОВАЯ РАБОТА\ИТОГ\Курсовая работа_программа\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+F:\YandexDisk\Документы\Наталия\ИТОГ\Курсовая работа_программа\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+F:\YandexDisk\Документы\Наталия\ИТОГ\Курсовая работа_программа\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+F:\YandexDisk\Документы\Наталия\ИТОГ\Курсовая работа_программа\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+F:\YandexDisk\Документы\Наталия\ИТОГ\Курсовая работа_программа\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+F:\YandexDisk\Документы\Наталия\ИТОГ\Курсовая работа_программа\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+F:\YandexDisk\Документы\Наталия\ИТОГ\Курсовая работа_программа\WindowsFormsApp1\bin\Debug\Graphics.dll
+F:\YandexDisk\Документы\Наталия\ИТОГ\Курсовая работа_программа\WindowsFormsApp1\bin\Debug\Graphics.pdb
+F:\YandexDisk\Документы\Наталия\ИТОГ\Курсовая работа_программа\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojResolveAssemblyReference.cache
+F:\YandexDisk\Документы\Наталия\ИТОГ\Курсовая работа_программа\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+F:\YandexDisk\Документы\Наталия\ИТОГ\Курсовая работа_программа\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FormGraphics.resources
+F:\YandexDisk\Документы\Наталия\ИТОГ\Курсовая работа_программа\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+F:\YandexDisk\Документы\Наталия\ИТОГ\Курсовая работа_программа\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.Cache
+C:\Users\Rabit\Desktop\Курсовая работа_программа_КОПИЯ5\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Rabit\Desktop\Курсовая работа_программа_КОПИЯ5\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Rabit\Desktop\Курсовая работа_программа_КОПИЯ5\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Rabit\Desktop\Курсовая работа_программа_КОПИЯ5\WindowsFormsApp1\bin\Debug\Graphics.dll
+C:\Users\Rabit\Desktop\Курсовая работа_программа_КОПИЯ5\WindowsFormsApp1\bin\Debug\Graphics.pdb
+C:\Users\Rabit\Desktop\Курсовая работа_программа_КОПИЯ5\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\Rabit\Desktop\Курсовая работа_программа_КОПИЯ5\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Rabit\Desktop\Курсовая работа_программа_КОПИЯ5\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FormGraphics.resources
+C:\Users\Rabit\Desktop\Курсовая работа_программа_КОПИЯ5\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Rabit\Desktop\Курсовая работа_программа_КОПИЯ5\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Rabit\Desktop\Курсовая работа_программа_КОПИЯ5\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Rabit\Desktop\Курсовая работа_программа_КОПИЯ5\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\Rabit\Desktop\Курсовая работа_программа_КОПИЯ5\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Rabit\Desktop\Курсовая работа_программа_КОПИЯ5\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+F:\YandexDisk\Документы\KDS\Курсовая работа\CourseWork\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojResolveAssemblyReference.cache
+F:\YandexDisk\Документы\KDS\Курсовая работа\CourseWork\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FormGraphics.resources
+F:\YandexDisk\Документы\KDS\Курсовая работа\CourseWork\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+F:\YandexDisk\Документы\KDS\Курсовая работа\CourseWork\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.Cache
+F:\YandexDisk\Документы\KDS\Курсовая работа\CourseWork\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+F:\YandexDisk\Документы\KDS\Курсовая работа\CourseWork\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+F:\YandexDisk\Документы\KDS\Курсовая работа\CourseWork\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+F:\YandexDisk\Документы\KDS\Курсовая работа\CourseWork\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+F:\YandexDisk\Документы\KDS\Курсовая работа\CourseWork\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+F:\YandexDisk\Документы\KDS\Курсовая работа\CourseWork\WindowsFormsApp1\bin\Debug\Graphics.dll
+F:\YandexDisk\Документы\KDS\Курсовая работа\CourseWork\WindowsFormsApp1\bin\Debug\Graphics.pdb

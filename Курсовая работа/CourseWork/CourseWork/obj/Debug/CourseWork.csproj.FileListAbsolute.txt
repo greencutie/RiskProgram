@@ -1,0 +1,94 @@
+C:\Users\User\source\repos\CourseWork\CourseWork\bin\Debug\CourseWork.exe.config
+C:\Users\User\source\repos\CourseWork\CourseWork\bin\Debug\CourseWork.exe
+C:\Users\User\source\repos\CourseWork\CourseWork\bin\Debug\CourseWork.pdb
+C:\Users\User\source\repos\CourseWork\CourseWork\obj\Debug\CourseWork.csprojAssemblyReference.cache
+C:\Users\User\source\repos\CourseWork\CourseWork\obj\Debug\CourseWork.Form1.resources
+C:\Users\User\source\repos\CourseWork\CourseWork\obj\Debug\CourseWork.Properties.Resources.resources
+C:\Users\User\source\repos\CourseWork\CourseWork\obj\Debug\CourseWork.csproj.GenerateResource.cache
+C:\Users\User\source\repos\CourseWork\CourseWork\obj\Debug\CourseWork.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\CourseWork\CourseWork\obj\Debug\CourseWork.exe
+C:\Users\User\source\repos\CourseWork\CourseWork\obj\Debug\CourseWork.pdb
+C:\Users\User\source\repos\CourseWork\CourseWork\obj\Debug\CourseWork.RiskEstimate.resources
+F:\YandexDisk\Документы\ВШЭ\Thresh\CourseWork\CourseWork\bin\Debug\CourseWork.exe.config
+F:\YandexDisk\Документы\ВШЭ\Thresh\CourseWork\CourseWork\obj\Debug\CourseWork.exe
+F:\YandexDisk\Документы\ВШЭ\Thresh\CourseWork\CourseWork\obj\Debug\CourseWork.pdb
+F:\YandexDisk\Документы\ВШЭ\Thresh\CourseWork\CourseWork\bin\Debug\CourseWork.exe
+F:\YandexDisk\Документы\ВШЭ\Thresh\CourseWork\CourseWork\bin\Debug\CourseWork.pdb
+F:\YandexDisk\Документы\ВШЭ\Thresh\CourseWork\CourseWork\obj\Debug\CourseWork.csprojResolveAssemblyReference.cache
+F:\YandexDisk\Документы\ВШЭ\Thresh\CourseWork\CourseWork\obj\Debug\CourseWork.Form1.resources
+F:\YandexDisk\Документы\ВШЭ\Thresh\CourseWork\CourseWork\obj\Debug\CourseWork.Properties.Resources.resources
+F:\YandexDisk\Документы\ВШЭ\Thresh\CourseWork\CourseWork\obj\Debug\CourseWork.RiskEstimate.resources
+F:\YandexDisk\Документы\ВШЭ\Thresh\CourseWork\CourseWork\obj\Debug\CourseWork.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\Герои\CourseWork\CourseWork\obj\Debug\CourseWork.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Герои\CourseWork\CourseWork\obj\Debug\CourseWork.Form1.resources
+C:\Users\User\Desktop\Герои\CourseWork\CourseWork\obj\Debug\CourseWork.Properties.Resources.resources
+C:\Users\User\Desktop\Герои\CourseWork\CourseWork\obj\Debug\CourseWork.RiskEstimate.resources
+C:\Users\User\Desktop\Герои\CourseWork\CourseWork\obj\Debug\CourseWork.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Герои\CourseWork\CourseWork\obj\Debug\CourseWork.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Герои\CourseWork\CourseWork\obj\Debug\CourseWork.exe
+C:\Users\User\Desktop\Герои\CourseWork\CourseWork\obj\Debug\CourseWork.pdb
+C:\Users\User\Desktop\Герои\CourseWork\CourseWork\bin\Debug\CourseWork.exe.config
+C:\Users\User\Desktop\Герои\CourseWork\CourseWork\bin\Debug\CourseWork.exe
+C:\Users\User\Desktop\Герои\CourseWork\CourseWork\bin\Debug\CourseWork.pdb
+C:\Users\User\Desktop\Курсовая работа\CourseWork\CourseWork\bin\Debug\CourseWork.exe.config
+C:\Users\User\Desktop\Курсовая работа\CourseWork\CourseWork\bin\Debug\CourseWork.exe
+C:\Users\User\Desktop\Курсовая работа\CourseWork\CourseWork\bin\Debug\CourseWork.pdb
+C:\Users\User\Desktop\Курсовая работа\CourseWork\CourseWork\obj\Debug\CourseWork.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Курсовая работа\CourseWork\CourseWork\obj\Debug\CourseWork.Form1.resources
+C:\Users\User\Desktop\Курсовая работа\CourseWork\CourseWork\obj\Debug\CourseWork.Properties.Resources.resources
+C:\Users\User\Desktop\Курсовая работа\CourseWork\CourseWork\obj\Debug\CourseWork.RiskEstimate.resources
+C:\Users\User\Desktop\Курсовая работа\CourseWork\CourseWork\obj\Debug\CourseWork.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Курсовая работа\CourseWork\CourseWork\obj\Debug\CourseWork.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Курсовая работа\CourseWork\CourseWork\obj\Debug\CourseWork.exe
+C:\Users\User\Desktop\Курсовая работа\CourseWork\CourseWork\obj\Debug\CourseWork.pdb
+F:\YandexDisk\Документы\KDS\Курсовая работа\CourseWork\CourseWork\bin\Debug\CourseWork.exe.config
+F:\YandexDisk\Документы\KDS\Курсовая работа\CourseWork\CourseWork\obj\Debug\CourseWork.exe
+F:\YandexDisk\Документы\KDS\Курсовая работа\CourseWork\CourseWork\obj\Debug\CourseWork.pdb
+F:\YandexDisk\Документы\KDS\Курсовая работа\CourseWork\CourseWork\obj\Debug\CourseWork.csprojResolveAssemblyReference.cache
+F:\YandexDisk\Документы\KDS\Курсовая работа\CourseWork\CourseWork\obj\Debug\CourseWork.Form1.resources
+F:\YandexDisk\Документы\KDS\Курсовая работа\CourseWork\CourseWork\obj\Debug\CourseWork.Properties.Resources.resources
+F:\YandexDisk\Документы\KDS\Курсовая работа\CourseWork\CourseWork\obj\Debug\CourseWork.RiskEstimate.resources
+F:\YandexDisk\Документы\KDS\Курсовая работа\CourseWork\CourseWork\obj\Debug\CourseWork.csproj.GenerateResource.Cache
+F:\YandexDisk\Документы\KDS\Курсовая работа\CourseWork\CourseWork\bin\Debug\CourseWork.exe
+F:\YandexDisk\Документы\KDS\Курсовая работа\CourseWork\CourseWork\bin\Debug\CourseWork.pdb
+F:\YandexDisk\Документы\KDS\Курсовая работа\CourseWork\CourseWork\bin\Debug\Graphics.dll
+F:\YandexDisk\Документы\KDS\Курсовая работа\CourseWork\CourseWork\bin\Debug\WindowsFormsApp1.exe
+F:\YandexDisk\Документы\KDS\Курсовая работа\CourseWork\CourseWork\bin\Debug\Graphics.pdb
+F:\YandexDisk\Документы\KDS\Курсовая работа\CourseWork\CourseWork\bin\Debug\WindowsFormsApp1.pdb
+F:\YandexDisk\Документы\KDS\Курсовая работа\CourseWork\CourseWork\bin\Debug\Risk_database.accdb
+C:\Users\User\Desktop\GerasimenkoER_KDZ3_v2\Курсовая работа\CourseWork\CourseWork\bin\Debug\Risk_database.accdb
+C:\Users\User\Desktop\GerasimenkoER_KDZ3_v2\Курсовая работа\CourseWork\CourseWork\bin\Debug\CourseWork.exe.config
+C:\Users\User\Desktop\GerasimenkoER_KDZ3_v2\Курсовая работа\CourseWork\CourseWork\bin\Debug\CourseWork.exe
+C:\Users\User\Desktop\GerasimenkoER_KDZ3_v2\Курсовая работа\CourseWork\CourseWork\bin\Debug\CourseWork.pdb
+C:\Users\User\Desktop\GerasimenkoER_KDZ3_v2\Курсовая работа\CourseWork\CourseWork\bin\Debug\Graphics.dll
+C:\Users\User\Desktop\GerasimenkoER_KDZ3_v2\Курсовая работа\CourseWork\CourseWork\bin\Debug\WindowsFormsApp1.exe
+C:\Users\User\Desktop\GerasimenkoER_KDZ3_v2\Курсовая работа\CourseWork\CourseWork\bin\Debug\Graphics.pdb
+C:\Users\User\Desktop\GerasimenkoER_KDZ3_v2\Курсовая работа\CourseWork\CourseWork\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\User\Desktop\GerasimenkoER_KDZ3_v2\Курсовая работа\CourseWork\CourseWork\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\User\Desktop\GerasimenkoER_KDZ3_v2\Курсовая работа\CourseWork\CourseWork\obj\Debug\CourseWork.csprojAssemblyReference.cache
+C:\Users\User\Desktop\GerasimenkoER_KDZ3_v2\Курсовая работа\CourseWork\CourseWork\obj\Debug\CourseWork.Form1.resources
+C:\Users\User\Desktop\GerasimenkoER_KDZ3_v2\Курсовая работа\CourseWork\CourseWork\obj\Debug\CourseWork.Properties.Resources.resources
+C:\Users\User\Desktop\GerasimenkoER_KDZ3_v2\Курсовая работа\CourseWork\CourseWork\obj\Debug\CourseWork.RiskEstimate.resources
+C:\Users\User\Desktop\GerasimenkoER_KDZ3_v2\Курсовая работа\CourseWork\CourseWork\obj\Debug\CourseWork.csproj.GenerateResource.cache
+C:\Users\User\Desktop\GerasimenkoER_KDZ3_v2\Курсовая работа\CourseWork\CourseWork\obj\Debug\CourseWork.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\GerasimenkoER_KDZ3_v2\Курсовая работа\CourseWork\CourseWork\obj\Debug\CourseWork.csproj.CopyComplete
+C:\Users\User\Desktop\GerasimenkoER_KDZ3_v2\Курсовая работа\CourseWork\CourseWork\obj\Debug\CourseWork.exe
+C:\Users\User\Desktop\GerasimenkoER_KDZ3_v2\Курсовая работа\CourseWork\CourseWork\obj\Debug\CourseWork.pdb
+C:\Users\User\Desktop\Пересдача курсовой работы\CourseWork\CourseWork\bin\Debug\Risk_database.accdb
+C:\Users\User\Desktop\Пересдача курсовой работы\CourseWork\CourseWork\bin\Debug\CourseWork.exe.config
+C:\Users\User\Desktop\Пересдача курсовой работы\CourseWork\CourseWork\bin\Debug\CourseWork.exe
+C:\Users\User\Desktop\Пересдача курсовой работы\CourseWork\CourseWork\bin\Debug\CourseWork.pdb
+C:\Users\User\Desktop\Пересдача курсовой работы\CourseWork\CourseWork\bin\Debug\Graphics.dll
+C:\Users\User\Desktop\Пересдача курсовой работы\CourseWork\CourseWork\bin\Debug\WindowsFormsApp1.exe
+C:\Users\User\Desktop\Пересдача курсовой работы\CourseWork\CourseWork\bin\Debug\Graphics.pdb
+C:\Users\User\Desktop\Пересдача курсовой работы\CourseWork\CourseWork\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\User\Desktop\Пересдача курсовой работы\CourseWork\CourseWork\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\User\Desktop\Пересдача курсовой работы\CourseWork\CourseWork\obj\Debug\CourseWork.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Пересдача курсовой работы\CourseWork\CourseWork\obj\Debug\CourseWork.Form1.resources
+C:\Users\User\Desktop\Пересдача курсовой работы\CourseWork\CourseWork\obj\Debug\CourseWork.Properties.Resources.resources
+C:\Users\User\Desktop\Пересдача курсовой работы\CourseWork\CourseWork\obj\Debug\CourseWork.RiskEstimate.resources
+C:\Users\User\Desktop\Пересдача курсовой работы\CourseWork\CourseWork\obj\Debug\CourseWork.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Пересдача курсовой работы\CourseWork\CourseWork\obj\Debug\CourseWork.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Пересдача курсовой работы\CourseWork\CourseWork\obj\Debug\CourseWork.csproj.CopyComplete
+C:\Users\User\Desktop\Пересдача курсовой работы\CourseWork\CourseWork\obj\Debug\CourseWork.exe
+C:\Users\User\Desktop\Пересдача курсовой работы\CourseWork\CourseWork\obj\Debug\CourseWork.pdb

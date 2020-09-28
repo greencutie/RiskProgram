@@ -1,0 +1,6 @@
+G:\ВШЭ\КУРСОВАЯ РАБОТА\ИТОГ\Курсовая работа_программа\Graphics\bin\Release\Graphics.dll
+G:\ВШЭ\КУРСОВАЯ РАБОТА\ИТОГ\Курсовая работа_программа\Graphics\bin\Release\Graphics.pdb
+G:\ВШЭ\КУРСОВАЯ РАБОТА\ИТОГ\Курсовая работа_программа\Graphics\obj\Release\Graphics.csproj.CoreCompileInputs.cache
+G:\ВШЭ\КУРСОВАЯ РАБОТА\ИТОГ\Курсовая работа_программа\Graphics\obj\Release\Graphics.dll
+G:\ВШЭ\КУРСОВАЯ РАБОТА\ИТОГ\Курсовая работа_программа\Graphics\obj\Release\Graphics.pdb
+G:\ВШЭ\КУРСОВАЯ РАБОТА\ИТОГ\Курсовая работа_программа\Graphics\obj\Release\Graphics.csprojAssemblyReference.cache

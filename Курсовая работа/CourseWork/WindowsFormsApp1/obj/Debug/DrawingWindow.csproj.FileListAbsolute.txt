@@ -1,0 +1,13 @@
+C:\Users\User\Desktop\Пересдача курсовой работы\CourseWork\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\User\Desktop\Пересдача курсовой работы\CourseWork\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\User\Desktop\Пересдача курсовой работы\CourseWork\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\User\Desktop\Пересдача курсовой работы\CourseWork\WindowsFormsApp1\bin\Debug\Graphics.dll
+C:\Users\User\Desktop\Пересдача курсовой работы\CourseWork\WindowsFormsApp1\bin\Debug\Graphics.pdb
+C:\Users\User\Desktop\Пересдача курсовой работы\CourseWork\WindowsFormsApp1\obj\Debug\DrawingWindow.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Пересдача курсовой работы\CourseWork\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FormGraphics.resources
+C:\Users\User\Desktop\Пересдача курсовой работы\CourseWork\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\User\Desktop\Пересдача курсовой работы\CourseWork\WindowsFormsApp1\obj\Debug\DrawingWindow.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Пересдача курсовой работы\CourseWork\WindowsFormsApp1\obj\Debug\DrawingWindow.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Пересдача курсовой работы\CourseWork\WindowsFormsApp1\obj\Debug\DrawingWindow.csproj.CopyComplete
+C:\Users\User\Desktop\Пересдача курсовой работы\CourseWork\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\User\Desktop\Пересдача курсовой работы\CourseWork\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb

@@ -1,0 +1,14 @@
+G:\ВШЭ\КУРСОВАЯ РАБОТА\ИТОГ\Курсовая работа_программа\WindowsFormsApp1\bin\Release\WindowsFormsApp1.exe.config
+G:\ВШЭ\КУРСОВАЯ РАБОТА\ИТОГ\Курсовая работа_программа\WindowsFormsApp1\bin\Release\WindowsFormsApp1.exe
+G:\ВШЭ\КУРСОВАЯ РАБОТА\ИТОГ\Курсовая работа_программа\WindowsFormsApp1\bin\Release\WindowsFormsApp1.pdb
+G:\ВШЭ\КУРСОВАЯ РАБОТА\ИТОГ\Курсовая работа_программа\WindowsFormsApp1\bin\Release\Graphics.dll
+G:\ВШЭ\КУРСОВАЯ РАБОТА\ИТОГ\Курсовая работа_программа\WindowsFormsApp1\bin\Release\Graphics.pdb
+G:\ВШЭ\КУРСОВАЯ РАБОТА\ИТОГ\Курсовая работа_программа\WindowsFormsApp1\obj\Release\WindowsFormsApp1.csprojAssemblyReference.cache
+G:\ВШЭ\КУРСОВАЯ РАБОТА\ИТОГ\Курсовая работа_программа\WindowsFormsApp1\obj\Release\WindowsFormsApp1.Form1.resources
+G:\ВШЭ\КУРСОВАЯ РАБОТА\ИТОГ\Курсовая работа_программа\WindowsFormsApp1\obj\Release\WindowsFormsApp1.FormGraphics.resources
+G:\ВШЭ\КУРСОВАЯ РАБОТА\ИТОГ\Курсовая работа_программа\WindowsFormsApp1\obj\Release\WindowsFormsApp1.Properties.Resources.resources
+G:\ВШЭ\КУРСОВАЯ РАБОТА\ИТОГ\Курсовая работа_программа\WindowsFormsApp1\obj\Release\WindowsFormsApp1.csproj.GenerateResource.cache
+G:\ВШЭ\КУРСОВАЯ РАБОТА\ИТОГ\Курсовая работа_программа\WindowsFormsApp1\obj\Release\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+G:\ВШЭ\КУРСОВАЯ РАБОТА\ИТОГ\Курсовая работа_программа\WindowsFormsApp1\obj\Release\WindowsFormsApp1.csproj.CopyComplete
+G:\ВШЭ\КУРСОВАЯ РАБОТА\ИТОГ\Курсовая работа_программа\WindowsFormsApp1\obj\Release\WindowsFormsApp1.exe
+G:\ВШЭ\КУРСОВАЯ РАБОТА\ИТОГ\Курсовая работа_программа\WindowsFormsApp1\obj\Release\WindowsFormsApp1.pdb

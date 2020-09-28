@@ -1,0 +1,51 @@
+G:\ВШЭ\КУРСОВАЯ РАБОТА\Курсовая работа_программа\Graphics\bin\Debug\Graphics.dll
+G:\ВШЭ\КУРСОВАЯ РАБОТА\Курсовая работа_программа\Graphics\bin\Debug\Graphics.pdb
+G:\ВШЭ\КУРСОВАЯ РАБОТА\Курсовая работа_программа\Graphics\obj\Debug\Graphics.csprojAssemblyReference.cache
+G:\ВШЭ\КУРСОВАЯ РАБОТА\Курсовая работа_программа\Graphics\obj\Debug\Graphics.csproj.CoreCompileInputs.cache
+G:\ВШЭ\КУРСОВАЯ РАБОТА\Курсовая работа_программа\Graphics\obj\Debug\Graphics.dll
+G:\ВШЭ\КУРСОВАЯ РАБОТА\Курсовая работа_программа\Graphics\obj\Debug\Graphics.pdb
+F:\YandexDisk\Документы\Наталия\КР\Курсовая работа_программа\Graphics\bin\Debug\Graphics.dll
+F:\YandexDisk\Документы\Наталия\КР\Курсовая работа_программа\Graphics\bin\Debug\Graphics.pdb
+F:\YandexDisk\Документы\Наталия\КР\Курсовая работа_программа\Graphics\obj\Debug\Graphics.dll
+F:\YandexDisk\Документы\Наталия\КР\Курсовая работа_программа\Graphics\obj\Debug\Graphics.pdb
+F:\YandexDisk\Документы\Наталия\КР\Курсовая работа_программа\Graphics\obj\Debug\Graphics.csprojResolveAssemblyReference.cache
+G:\ВШЭ\КУРСОВАЯ РАБОТА\ИТОГ\Курсовая работа_программа\Graphics\bin\Debug\Graphics.dll
+G:\ВШЭ\КУРСОВАЯ РАБОТА\ИТОГ\Курсовая работа_программа\Graphics\bin\Debug\Graphics.pdb
+G:\ВШЭ\КУРСОВАЯ РАБОТА\ИТОГ\Курсовая работа_программа\Graphics\obj\Debug\Graphics.csprojAssemblyReference.cache
+G:\ВШЭ\КУРСОВАЯ РАБОТА\ИТОГ\Курсовая работа_программа\Graphics\obj\Debug\Graphics.csproj.CoreCompileInputs.cache
+G:\ВШЭ\КУРСОВАЯ РАБОТА\ИТОГ\Курсовая работа_программа\Graphics\obj\Debug\Graphics.dll
+G:\ВШЭ\КУРСОВАЯ РАБОТА\ИТОГ\Курсовая работа_программа\Graphics\obj\Debug\Graphics.pdb
+F:\ВШЭ\КУРСОВАЯ РАБОТА\ИТОГ\Курсовая работа_программа\Graphics\bin\Debug\Graphics.dll
+F:\ВШЭ\КУРСОВАЯ РАБОТА\ИТОГ\Курсовая работа_программа\Graphics\bin\Debug\Graphics.pdb
+F:\ВШЭ\КУРСОВАЯ РАБОТА\ИТОГ\Курсовая работа_программа\Graphics\obj\Debug\Graphics.csprojAssemblyReference.cache
+F:\ВШЭ\КУРСОВАЯ РАБОТА\ИТОГ\Курсовая работа_программа\Graphics\obj\Debug\Graphics.csproj.CoreCompileInputs.cache
+F:\ВШЭ\КУРСОВАЯ РАБОТА\ИТОГ\Курсовая работа_программа\Graphics\obj\Debug\Graphics.dll
+F:\ВШЭ\КУРСОВАЯ РАБОТА\ИТОГ\Курсовая работа_программа\Graphics\obj\Debug\Graphics.pdb
+E:\КУРСОВАЯ РАБОТА\ИТОГ\Курсовая работа_программа\Graphics\bin\Debug\Graphics.dll
+E:\КУРСОВАЯ РАБОТА\ИТОГ\Курсовая работа_программа\Graphics\bin\Debug\Graphics.pdb
+E:\КУРСОВАЯ РАБОТА\ИТОГ\Курсовая работа_программа\Graphics\obj\Debug\Graphics.csprojAssemblyReference.cache
+E:\КУРСОВАЯ РАБОТА\ИТОГ\Курсовая работа_программа\Graphics\obj\Debug\Graphics.csproj.CoreCompileInputs.cache
+E:\КУРСОВАЯ РАБОТА\ИТОГ\Курсовая работа_программа\Graphics\obj\Debug\Graphics.dll
+E:\КУРСОВАЯ РАБОТА\ИТОГ\Курсовая работа_программа\Graphics\obj\Debug\Graphics.pdb
+F:\YandexDisk\Документы\Наталия\ИТОГ\Курсовая работа_программа\Graphics\bin\Debug\Graphics.dll
+F:\YandexDisk\Документы\Наталия\ИТОГ\Курсовая работа_программа\Graphics\bin\Debug\Graphics.pdb
+F:\YandexDisk\Документы\Наталия\ИТОГ\Курсовая работа_программа\Graphics\obj\Debug\Graphics.csprojResolveAssemblyReference.cache
+F:\YandexDisk\Документы\Наталия\ИТОГ\Курсовая работа_программа\Graphics\obj\Debug\Graphics.dll
+F:\YandexDisk\Документы\Наталия\ИТОГ\Курсовая работа_программа\Graphics\obj\Debug\Graphics.pdb
+C:\Users\Rabit\Desktop\Курсовая работа_программа_КОПИЯ5\Graphics\bin\Debug\Graphics.dll
+C:\Users\Rabit\Desktop\Курсовая работа_программа_КОПИЯ5\Graphics\bin\Debug\Graphics.pdb
+C:\Users\Rabit\Desktop\Курсовая работа_программа_КОПИЯ5\Graphics\obj\Debug\Graphics.csprojAssemblyReference.cache
+C:\Users\Rabit\Desktop\Курсовая работа_программа_КОПИЯ5\Graphics\obj\Debug\Graphics.csproj.CoreCompileInputs.cache
+C:\Users\Rabit\Desktop\Курсовая работа_программа_КОПИЯ5\Graphics\obj\Debug\Graphics.dll
+C:\Users\Rabit\Desktop\Курсовая работа_программа_КОПИЯ5\Graphics\obj\Debug\Graphics.pdb
+F:\YandexDisk\Документы\KDS\Курсовая работа\CourseWork\Graphics\bin\Debug\Graphics.dll
+F:\YandexDisk\Документы\KDS\Курсовая работа\CourseWork\Graphics\bin\Debug\Graphics.pdb
+F:\YandexDisk\Документы\KDS\Курсовая работа\CourseWork\Graphics\obj\Debug\Graphics.csprojResolveAssemblyReference.cache
+F:\YandexDisk\Документы\KDS\Курсовая работа\CourseWork\Graphics\obj\Debug\Graphics.dll
+F:\YandexDisk\Документы\KDS\Курсовая работа\CourseWork\Graphics\obj\Debug\Graphics.pdb
+C:\Users\User\Desktop\Пересдача курсовой работы\CourseWork\Graphics\bin\Debug\Graphics.dll
+C:\Users\User\Desktop\Пересдача курсовой работы\CourseWork\Graphics\bin\Debug\Graphics.pdb
+C:\Users\User\Desktop\Пересдача курсовой работы\CourseWork\Graphics\obj\Debug\Graphics.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Пересдача курсовой работы\CourseWork\Graphics\obj\Debug\Graphics.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Пересдача курсовой работы\CourseWork\Graphics\obj\Debug\Graphics.dll
+C:\Users\User\Desktop\Пересдача курсовой работы\CourseWork\Graphics\obj\Debug\Graphics.pdb
